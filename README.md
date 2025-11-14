@@ -1,6 +1,6 @@
 # mazerunner
 
-This project is an interactive, browser-based visualization of a Deep Q-Network (DQN) agent learning to solve a 10x10 maze. The entire reinforcement learning process, from model creation to training and inference, runs directly in your browser using TensorFlow.js.
+MazeRunner project is an interactive, browser-based visualization of a Deep Q-Network (DQN) agent learning to solve a 10x10 maze. The entire reinforcement learning process, from model creation to training and inference, runs directly in your browser using TensorFlow.js.
 
 You can create your own maze by setting a start point, a goal, and drawing obstacles, then watch as the agent learns the optimal path.
 
