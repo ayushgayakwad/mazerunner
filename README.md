@@ -4,6 +4,8 @@ This project is an interactive, browser-based visualization of a Deep Q-Network 
 
 You can create your own maze by setting a start point, a goal, and drawing obstacles, then watch as the agent learns the optimal path.
 
+![Screenshot of the DQN Maze Learner in action](https://github.com/ayushgayakwad/mazerunner/blob/main/screenshots/mazerunner_screenshot.png?raw=true)
+
 ## Features
 
 * **Interactive Maze Setup:** Click on the grid to place the **Start** (🔵), **Goal** (🟢), and **Obstacles** (🟥).
