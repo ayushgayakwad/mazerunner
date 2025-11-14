@@ -24,7 +24,7 @@ You can create your own maze by setting a start point, a goal, and drawing obsta
 
 ## How to Use
 
-1.  Download the `index.html` file.
+1.  Download the `mazerunner.html` file.
 2.  Open the file in any modern web browser (like Chrome, Firefox, or Edge).
 3.  **Click a cell** to set the **Start** position (🔵).
 4.  **Click another cell** to set the **Goal** position (🟢).
